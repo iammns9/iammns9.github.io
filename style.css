@@ -32,3 +32,7 @@ footer a { color: var(--accent); }
   .hero { padding: 2.5rem 0 2rem; }
   nav .wrap { gap: 1rem; font-size: 0.95rem; }
 }
+
+.hero-bg { background: linear-gradient(135deg, #1a237e 0%, #0d47a1 60%, #00695c 100%); color: #fff; border-radius: 0 0 12px 12px; }
+.hero-bg .lead { color: #c5cae9; }
+.hero-bg .btn { background: #fff; color: #1a237e; }
